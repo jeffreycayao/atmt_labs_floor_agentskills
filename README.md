@@ -1,6 +1,6 @@
 # ATMT Labs Floor Agent Skills
 
-This public catalog contains reviewed skills for Philippine business workflows. ATMT Labs publishes the skill files here; the ATMT Labs desktop app can browse and install a selected release. The first app release supports installation into **Claude Code**. The `SKILL.md` instructions are portable, but other agents are not yet an app-supported install target.
+This public catalog contains ATMT-published skills for Philippine business workflows. ATMT Labs publishes the skill files here; the ATMT Labs desktop app can browse and install a selected release. The first app release supports installation into **Claude Code**. The `SKILL.md` instructions are portable, but other agents are not yet an app-supported install target.
 
 ## Starter skills
 
@@ -27,4 +27,4 @@ The catalog is meant to be served from this repository's default branch. A revie
 
 ## License
 
-The skills are source-available under the [ATMT Labs Skills License](LICENSE). Customers may download, install, and use them with the ATMT Labs application. The files are readable after installation; the license restricts reuse outside the app and redistribution. GitHub's terms separately allow viewing and forking a public repository through GitHub.
+The skills are source-available under the [ATMT Labs Skills License](LICENSE). Customers may install them through the ATMT Labs application, adapt local copies, and use them with its supported agent integrations. The files are readable after installation; the license restricts reuse outside that flow and redistribution. GitHub's terms separately allow viewing and forking a public repository through GitHub.

@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "publisher": "ATMT Labs",
+  "skills": [
+    {
+      "id": "taglish-customer-replies",
+      "name": "Taglish Customer Replies",
+      "description": "Draft grounded Filipino-English customer support replies for chat, social inbox, and email.",
+      "category": "Customer Support",
+      "version": "0.1.0",
+      "sourceCommit": "0910e213a062954e2e57babbb16f3af726c846e6",
+      "files": [
+        {
+          "path": "skills/taglish-customer-replies/SKILL.md",
+          "sha256": "61ec91fc08b34f83a919482722ae66a675d75ae1d610a75c1e3517789ace849b",
+          "size": 1543
+        }
+      ]
+    },
+    {
+      "id": "ph-ecommerce-listings",
+      "name": "Philippine Ecommerce Listings",
+      "description": "Draft platform-neutral product listings for Philippine shoppers from verified product facts.",
+      "category": "Ecommerce",
+      "version": "0.1.0",
+      "sourceCommit": "0910e213a062954e2e57babbb16f3af726c846e6",
+      "files": [
+        {
+          "path": "skills/ph-ecommerce-listings/SKILL.md",
+          "sha256": "7587b6b66e5b7b34301f8cbc5ced73d327f5a1ef6d7efcc49ffe483582200a17",
+          "size": 1553
+        }
+      ]
+    },
+    {
+      "id": "peso-amount-formatting",
+      "name": "Peso Amount Formatting",
+      "description": "Format confirmed Philippine peso amounts in customer copy, reports, and tables.",
+      "category": "Finance Formatting",
+      "version": "0.1.0",
+      "sourceCommit": "0910e213a062954e2e57babbb16f3af726c846e6",
+      "files": [
+        {
+          "path": "skills/peso-amount-formatting/SKILL.md",
+          "sha256": "33e38a71d0c4579c904db909bf4f9602a38adc2ef377d35b5b8e3c4f5139ddd7",
+          "size": 1342
+        }
+      ]
+    }
+  ]
+}
